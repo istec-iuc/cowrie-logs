@@ -1,6 +1,6 @@
 # Cowrie-Logs : Cowrie SSH and Telnet Log Files
 
-In this repository, you will find a Cowrie Honeypoth SSH and Telnet Logs. 
+In this repository, you will find a Cowrie SSH and Telnet Honeypot Logs. 
 
 ## Cowrie-Logs Data Source
 
