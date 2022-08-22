@@ -6,7 +6,7 @@ In this repository, you will find a Cowrie Honeypoth SSH and Telnet Logs.
 
 Data Source will be shared after the article is published. 
 
-## Cowrie-Logs Cowrei Log File JSON Structure
+## Cowrie-Logs Cowrie Log File JSON Structure
 
 It will be shared after the article is published. 
 
@@ -14,5 +14,5 @@ It will be shared after the article is published.
 
 If you use the dataset, please cite the following paper:
 
-Article Citation will be shared after the article is published. 
+https://ieeexplore.ieee.org/document/9558948
 
