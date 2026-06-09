@@ -4,8 +4,8 @@ In this repository, you will find a Cowrie SSH and Telnet Honeypot Logs.
 
 ## Cowrie-Logs JSON Structure
 
-Drive Link:
-(https://drive.google.com/drive/folders/1tJHKGM5EulhoCh_5NgZ7nckuBbSkPX0d?usp=share_link) 
+Kaggle Link:
+([https://www.kaggle.com/datasets/melikebaseer/cowrie-sshtelnet-honeypot-dataset](https://www.kaggle.com/datasets/melikebaseer/cowrie-sshtelnet-honeypot-dataset)) 
 **updated**
 ## Citations
 
